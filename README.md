@@ -15,6 +15,9 @@ Automatically recognizing diverse construction resources (e.g., workers and equi
 ## Demo
 ![vis.pdf](https://github.com/YUZ128pitt/OpenConstruction/files/9278163/vis.pdf)
 
+## Poster
+![poster.pdf](https://github.com/ruoxinx/OpenConstruction/blob/main/documents/ECCV'22%20poster-011.pdf)
+
 ## Data preparation and processing
 
 ### ACID

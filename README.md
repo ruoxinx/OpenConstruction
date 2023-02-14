@@ -2,7 +2,7 @@
 
 [Ruoxin Xiong](https://www.linkedin.com/in/ruoxin-xiong-56773815b/), [Yuansheng Zhu](https://sites.google.com/view/yuz128/home), [Yanyu Wang](https://www.linkedin.com/in/yanyu-wang-984bb61b7/), [Pengkun Liu](https://www.linkedin.com/in/pengkunliu/), and [Pingbo Tang](https://sites.google.com/site/tangpingbo/)
 
-This is the official implementation of the paper "Facilitating Construction Scene Understanding Knowledge Sharing and Reuse via Lifelong Site Object Detection", which will be seen in the first [CVCIE workshop](https://vap.aau.dk/cvcie/) at ECCV 2022. 
+This is the official implementation of the paper "Facilitating Construction Scene Understanding Knowledge Sharing and Reuse via Lifelong Site Object Detection(https://link.springer.com/chapter/10.1007/978-3-031-25082-8_15)" in the first [CVCIE workshop](https://vap.aau.dk/cvcie/) at ECCV 2022. 
 
 ## Introduction
 
@@ -19,6 +19,8 @@ Automatically recognizing diverse construction resources (e.g., workers and equi
 ![poster.pdf](https://github.com/ruoxinx/OpenConstruction/blob/main/documents/ECCV'22%20poster-011.pdf)
 
 ## Data preparation and processing
+
+Please download the datasets from their official website under licensed permissions.
 
 ### ACID
 - Description: 10 categories of construction machines, 10,000 labeled images, 15,767 construction machine objects

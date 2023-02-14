@@ -2,7 +2,7 @@
 
 [Ruoxin Xiong](https://www.linkedin.com/in/ruoxin-xiong-56773815b/), [Yuansheng Zhu](https://sites.google.com/view/yuz128/home), [Yanyu Wang](https://www.linkedin.com/in/yanyu-wang-984bb61b7/), [Pengkun Liu](https://www.linkedin.com/in/pengkunliu/), and [Pingbo Tang](https://sites.google.com/site/tangpingbo/)
 
-This is the official implementation of the paper "Facilitating Construction Scene Understanding Knowledge Sharing and Reuse via Lifelong Site Object Detection(https://link.springer.com/chapter/10.1007/978-3-031-25082-8_15)" in the first [CVCIE workshop](https://vap.aau.dk/cvcie/) at ECCV 2022. 
+This is the official implementation of the paper "[Facilitating Construction Scene Understanding Knowledge Sharing and Reuse via Lifelong Site Object Detection](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_15)" in the first [CVCIE workshop](https://vap.aau.dk/cvcie/) at ECCV 2022. 
 
 ## Introduction
 
@@ -50,4 +50,28 @@ This repo is largely based on the [MMDetection2](https://github.com/open-mmlab/m
 - Step 4: enjoy^-^! Please cite our work if you found it helpful and contact us at yz7008@rit.edu if there is any issue.
 
 ## Acknowledgments
-We sincerely thank [Anlab](http://www.anlab340.com), [AIRCon-Lab](https://profsckang.wixsite.com/uofa-rlab), and [Mechanics Computing and Simulation Laboratory](https://linjiarui.net/en/) for providing the datasets.  
+We sincerely thank [Anlab](http://www.anlab340.com), [AIRCon-Lab](https://profsckang.wixsite.com/uofa-rlab), and [Mechanics Computing and Simulation Laboratory](https://linjiarui.net/en/) for providing the datasets.
+
+## **Citation**
+
+If you find this paper useful in your research, please consider cite:
+
+```
+@InProceedings{10.1007/978-3-031-25082-8_15,
+author="Xiong, Ruoxin
+and Zhu, Yuansheng
+and Wang, Yanyu
+and Liu, Pengkun
+and Tang, Pingbo",
+editor="Karlinsky, Leonid
+and Michaeli, Tomer
+and Nishino, Ko",
+title="Facilitating Construction Scene Understanding Knowledge Sharing and Reuse via Lifelong Site Object Detection",
+booktitle="Computer Vision -- ECCV 2022 Workshops",
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="228--243",
+isbn="978-3-031-25082-8"
+}
+```

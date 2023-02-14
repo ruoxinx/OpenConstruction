@@ -35,9 +35,6 @@ Automatically recognizing diverse construction resources (e.g., workers and equi
 - Category: Worker; Tower crane; Hanging hook; Vehicle crane; Roller; Bulldozer; Excavator; Truck; Loader; Pump truck; Concrete transport mixer; Pile driver; Other vehicle
 - [Source](http://www.anlab340.com/Archives/IndexArctype/index/t_id/17.html)
 
-### Pre-processing
-Please download the cleaned annotation and trained object detector in [Google Drive](https://drive.google.com/drive/folders/19cs93K78MqXO-uCOLhABv0xRhuJ3sVBP?usp=sharing)
-
 ## Running environment
 This repo is largely based on the [MMDetection2](https://github.com/open-mmlab/mmdetection). Please follow their installation instruction.
 
